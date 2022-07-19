@@ -5,3 +5,7 @@ Pandas Cheat Sheet : [Pandas_Cheat_Sheet.pdf](https://github.com/tubaaktas/Panda
 
 # Data Analysis :
 Korelasyon DataFrame : [breast_cancer.csv](https://github.com/tubaaktas/DataAnalysis/files/9126007/breast_cancer.csv)
+
+# Feature Engineering :
+Outliers DataFrame : https://www.kaggle.com/datasets/tubaaktas/applicationtrain    
+[titanic.csv](https://github.com/tubaaktas/Miuul/files/9138772/titanic.csv)
