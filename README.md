@@ -1,1 +1,1 @@
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiuul.com%2Fstore%2Furun%2Fdata-scientist-mind-map-collections&psig=AOvVaw0fGIWeYaGps7lS6SM7tERV&ust=1699642769260000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIixwe7Mt4IDFQAAAAAdAAAAABAE
